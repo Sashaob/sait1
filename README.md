@@ -1,5 +1,5 @@
 <html>
-    <title>Игры и приложения</title>
+    <title>Пк</title>
 
     <body>
         <header>
